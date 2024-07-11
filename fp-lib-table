@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/footprints/keyswitches.pretty-2.1")(options "")(descr "Kailh / Cherry MX switches + Kailh connectors"))
+  (lib (name "Amiga Joyboard")(type "KiCad")(uri "${KIPRJMOD}/footprints/amiga_joyboard.pretty")(options "")(descr "Additional footprints"))
+)
