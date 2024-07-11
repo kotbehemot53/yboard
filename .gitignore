@@ -27,3 +27,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+~amiga_joyboard.kicad_pcb.lck
+
+~amiga_joyboard.kicad_sch.lck
