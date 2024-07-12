@@ -1080,7 +1080,7 @@
 		(descr "MX-style keyswitch")
 		(tags "MX,cherry,gateron,kailh")
 		(property "Reference" "SW1"
-			(at -2.286 -8.382 0)
+			(at -5.334 -8.382 0)
 			(layer "F.SilkS")
 			(uuid "1604c9c5-94a1-42ce-a95e-6c47df195781")
 			(effects
@@ -1365,6 +1365,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7416b4b9-3fd3-4dde-a9ca-6b4ca4c33f42")
 			(effects
 				(font
@@ -1475,6 +1476,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "050d623c-0662-468f-bb3c-2dd79b81cdc5")
 			(effects
 				(font
@@ -1583,7 +1585,7 @@
 		(descr "MX-style keyswitch")
 		(tags "MX,cherry,gateron,kailh")
 		(property "Reference" "SW7"
-			(at 0 -8.255 0)
+			(at -0.508 -8.255 0)
 			(layer "F.SilkS")
 			(uuid "e40009c4-f2ae-4c66-8b24-cfedcb57aa36")
 			(effects
@@ -2987,7 +2989,7 @@
 		(descr "MX-style keyswitch")
 		(tags "MX,cherry,gateron,kailh")
 		(property "Reference" "SW2"
-			(at -0.254 -8.255 0)
+			(at -0.762 -8.255 0)
 			(layer "F.SilkS")
 			(uuid "6ba012df-6dba-471a-b972-6079acbc8bd9")
 			(effects
@@ -3272,6 +3274,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e4fbc433-f2b8-4f0c-a8c7-08db6d27077d")
 			(effects
 				(font
@@ -3378,7 +3381,7 @@
 		(uuid "7dd350dc-62e5-4c99-930b-791904db21bc")
 		(at 180.642 100.33)
 		(property "Reference" "SW8"
-			(at 0 -3.556 0)
+			(at 0.206 -3.556 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "96558efa-2540-4e90-8a5c-bb4841dbbc90")
@@ -4229,6 +4232,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ad731d60-c5f5-4fe7-91bb-7b6af42d65de")
 			(effects
 				(font
@@ -6502,7 +6506,7 @@
 		(descr "MX-style keyswitch")
 		(tags "MX,cherry,gateron,kailh")
 		(property "Reference" "SW6"
-			(at -1.778 -8.255 0)
+			(at -2.54 -8.255 0)
 			(layer "F.SilkS")
 			(uuid "9913f7c5-359c-45e1-9f09-22aaf3b52fd4")
 			(effects
@@ -7063,6 +7067,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c7aab569-0556-42e1-8a10-dd72b794f699")
 			(effects
 				(font
@@ -7559,6 +7564,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1a8f1317-8954-42a3-931c-a30014f2cf5f")
 			(effects
 				(font
@@ -8536,6 +8542,7 @@
 		(property "Reference" "REF**"
 			(at 0 -5.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6b6dfd1c-feac-4c1b-80c1-9638323bb165")
 			(effects
 				(font
@@ -8644,7 +8651,7 @@
 		(descr "MX-style keyswitch")
 		(tags "MX,cherry,gateron,kailh")
 		(property "Reference" "SW4"
-			(at -0.508 -8.255 0)
+			(at -0.762 -8.255 0)
 			(layer "F.SilkS")
 			(uuid "2cfd0850-ecf3-4218-9ec1-93fecc3b5b1b")
 			(effects
