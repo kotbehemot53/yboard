@@ -3588,7 +3588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 91.44 59.69 0)
 			(effects
 				(font
@@ -3803,7 +3803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 91.44 49.53 0)
 			(effects
 				(font
@@ -4004,7 +4004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 85.09 146.05 0)
 			(effects
 				(font
@@ -4231,7 +4231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 91.44 29.21 0)
 			(effects
 				(font
@@ -4516,7 +4516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 85.09 135.89 0)
 			(effects
 				(font
@@ -4584,7 +4584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 91.44 39.37 0)
 			(effects
 				(font
@@ -5148,7 +5148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kailh:SW_MX"
+		(property "Footprint" "Amiga Joyboard:SW_MX"
 			(at 85.09 120.65 0)
 			(effects
 				(font
