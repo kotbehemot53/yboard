@@ -28,10 +28,10 @@ fp-info-cache
 *.xml
 *.csv
 
-~amiga_joyboard.kicad_pcb.lck
+~yboard.kicad_pcb.lck
 
-~amiga_joyboard.kicad_sch.lck
+~yboard.kicad_sch.lck
 
-~amiga_joyboard_rounded.kicad_pcb.lck
+~yboard_rounded.kicad_pcb.lck
 
-amiga_joyboard_rounded.kicad_pro
+yboard_rounded.kicad_pro

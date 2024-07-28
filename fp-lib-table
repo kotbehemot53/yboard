@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Amiga Joyboard")(type "KiCad")(uri "${KIPRJMOD}/footprints/amiga_joyboard.pretty")(options "")(descr "Additional footprints"))
+  (lib (name "Yboard")(type "KiCad")(uri "${KIPRJMOD}/footprints/yboard.pretty")(options "")(descr "Additional footprints"))
 )
