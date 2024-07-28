@@ -141,4 +141,15 @@
 		(remove_unused_layers no)
 		(uuid "b3868593-b398-4fa9-b55e-77c5c3263b7c")
 	)
+	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_SPDT_Straight_CK_OS102011MS2Q.step"
+		(offset
+			(xyz -2.9464 0 0)
+		)
+		(scale
+			(xyz 1.46 1 1.25)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

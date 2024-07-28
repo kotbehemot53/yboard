@@ -305,4 +305,15 @@
 		(remove_unused_layers no)
 		(uuid "dfa95d0b-da28-4d00-9a4b-9c5c7d6678fb")
 	)
+	(model "${KIPRJMOD}/footprints/models/cherry-mx-switch-5.snapshot.2/MX .STEP"
+		(offset
+			(xyz 7.3406 7.3406 6.096)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
 )
