@@ -444,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "amiga_joyboard.kicad_pro",
+    "filename": "yboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -493,15 +493,15 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "yboard.cad",
       "idf": "",
       "netlist": "",
       "plot": "fab_pdf/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "yboard2.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "yboard.wrl"
     },
     "page_layout_descr_file": ""
   },
